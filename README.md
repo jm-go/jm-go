@@ -8,8 +8,6 @@ Transitioning into the tech industry, I'm excited to blend my background in psyc
 ## 🖥️ My Portfolio
 Check out my portfolio [here](https://jm-go.github.io/portfolio-project/)
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jowita-gogol-7693601a8/)
-  
-Feel free to reach out for collaborations or just a chat: 
+## 🌐 Contact
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jowita%20Gogol-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jowita-gogol-7693601a8/)
 - 📧 Email: [jowita.m.gogol@gmail.com](mailto:jowita.m.gogol@gmail.com)
